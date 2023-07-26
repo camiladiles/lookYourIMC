@@ -4,4 +4,4 @@
 
  ### Here you can calculate your IMC: 
 
- #### look-your-imc.netlify.app
+#### https://look-your-imc.netlify.app/
